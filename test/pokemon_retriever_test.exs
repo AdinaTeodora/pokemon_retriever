@@ -37,4 +37,4 @@ defmodule PokemonRetrieverTest do
     assert PokemonRetriever.fetch_pokemon_id("bulbasaur12") == "not found"
   end
 
-  end
+end
